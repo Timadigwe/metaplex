@@ -1,0 +1,12 @@
+{
+    "name": "FEMI",
+    "symbol": "FM",
+    "description": "FEMI is inspired by the modern Yoruba tribe. He is from the western region of Africa and he speaks 2 languages.",
+    "seller_fee_basis_points": 1300,
+    "image": "48.jpg",
+    "properties": {
+        "creators": [{"address": "GTNVJCbratwg99LoCvBNQGegvNAc8cbw7c4TwTY3YB86", "share": 100}],
+        "files": [{"uri": "48.jpg", "type": "image/jpg"}]
+    },
+    "collection": {"name": "AfrogemNfts", "family": "AfrogemNfts"}
+}

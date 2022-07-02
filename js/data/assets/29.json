@@ -1,0 +1,12 @@
+{
+    "name": "THANDI",
+    "symbol": "TH",
+    "description": "Introducing THANDI inspired by the Ndebele tribe of South Africa,  as her name implies Thandi means loving one she takes pride in her culture by wearing the brass rings on her neck. She speaks 2 languages.",
+    "seller_fee_basis_points": 1300,
+    "image": "29.png",
+    "properties": {
+        "creators": [{"address": "GTNVJCbratwg99LoCvBNQGegvNAc8cbw7c4TwTY3YB86", "share": 100}],
+        "files": [{"uri": "29.png", "type": "image/png"}]
+    },
+    "collection": {"name": "AfrogemNfts", "family": "AfrogemNfts"}
+}

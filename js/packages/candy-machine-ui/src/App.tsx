@@ -22,9 +22,25 @@ import { WalletDialogProvider } from '@solana/wallet-adapter-material-ui';
 import { ThemeProvider, createTheme } from '@material-ui/core';
 
 const theme = createTheme({
+  typography: {
+    fontSize: 16,
+    fontFamily: [
+      "Poppins",
+      "Jost",
+      "Helvetica Neue",
+      "Arial",
+      "sans-serif"
+    ].join(",")
+  },
   palette: {
     type: 'dark',
-  },
+  },overrides: {
+    MuiButton: {
+        root: {
+            textTransform: 'none',
+        }
+    }
+},
 });
 
 const getCandyMachineId = (): anchor.web3.PublicKey | undefined => {

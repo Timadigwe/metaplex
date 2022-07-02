@@ -1,0 +1,12 @@
+{
+    "name": "AGUBA",
+    "symbol": "AG",
+    "description": "Meet AGUBA . inspired by the project manger of AFROGEM CONCEPTS. He speaks three languages.",
+    "seller_fee_basis_points": 1300,
+    "image": "21.png",
+    "properties": {
+        "creators": [{"address": "GTNVJCbratwg99LoCvBNQGegvNAc8cbw7c4TwTY3YB86", "share": 100}],
+        "files": [{"uri": "21.png", "type": "image/png"}]
+    },
+    "collection": {"name": "AfrogemNfts", "family": "AfrogemNfts"}
+}

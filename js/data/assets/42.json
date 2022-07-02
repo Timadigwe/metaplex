@@ -1,0 +1,12 @@
+{
+    "name": "MAZURI",
+    "symbol": "MZR",
+    "description": "Here is MAZURI who is inspired by the HIMBA tribe in northern Namibia. She is from the southern region of Africa and speaks only 1 language.",
+    "seller_fee_basis_points": 1300,
+    "image": "42.png",
+    "properties": {
+        "creators": [{"address": "GTNVJCbratwg99LoCvBNQGegvNAc8cbw7c4TwTY3YB86", "share": 100}],
+        "files": [{"uri": "42.png", "type": "image/png"}]
+    },
+    "collection": {"name": "AfrogemNfts", "family": "AfrogemNfts"}
+}

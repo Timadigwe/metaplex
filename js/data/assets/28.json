@@ -1,0 +1,12 @@
+{
+    "name": "ANI",
+    "symbol": "ANI",
+    "description": " Meet ANI. inspired by the igbo goddess of the earth and fertility. Ani speaks all the dialects of the igbo culture.",
+    "seller_fee_basis_points": 1300,
+    "image": "28.png",
+    "properties": {
+        "creators": [{"address": "GTNVJCbratwg99LoCvBNQGegvNAc8cbw7c4TwTY3YB86", "share": 100}],
+        "files": [{"uri": "28.png", "type": "image/png"}]
+    },
+    "collection": {"name": "AfrogemNfts", "family": "AfrogemNfts"}
+}

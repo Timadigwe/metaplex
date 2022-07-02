@@ -1,0 +1,12 @@
+{
+    "name": "MAWU",
+    "symbol": "MW",
+    "description": "Meet MAWU inspired by the Yoruba goddess of Sun and moon. Mawu speaks all the dialects of the Yoruba tribe.",
+    "seller_fee_basis_points": 1300,
+    "image": "32.png",
+    "properties": {
+        "creators": [{"address": "GTNVJCbratwg99LoCvBNQGegvNAc8cbw7c4TwTY3YB86", "share": 100}],
+        "files": [{"uri": "32.png", "type": "image/png"}]
+    },
+    "collection": {"name": "AfrogemNfts", "family": "AfrogemNfts"}
+}

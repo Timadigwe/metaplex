@@ -1,0 +1,12 @@
+{
+    "name": "MAIYA",
+    "symbol": "MYA",
+    "description": "MAIYA id inspired by the modern day IJAW woman. the IJAW people are from the southern part of Nigeria west Africa. She speaks 2 languages.",
+    "seller_fee_basis_points": 1300,
+    "image": "49.jpg",
+    "properties": {
+        "creators": [{"address": "GTNVJCbratwg99LoCvBNQGegvNAc8cbw7c4TwTY3YB86", "share": 100}],
+        "files": [{"uri": "49.jpg", "type": "image/jpg"}]
+    },
+    "collection": {"name": "AfrogemNfts", "family": "AfrogemNfts"}
+}

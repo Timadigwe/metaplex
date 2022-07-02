@@ -1,0 +1,12 @@
+{
+    "name": "ALOMO",
+    "symbol": "ALO",
+    "description": "Introducing ALOMO who is inspired by the modern day Yoruba man.  ALOMO represents the generation Z of the Yoruba culture in Nigeria in west Africa. He speaks two languages.",
+    "seller_fee_basis_points": 1300,
+    "image": "27.jpg",
+    "properties": {
+        "creators": [{"address": "GTNVJCbratwg99LoCvBNQGegvNAc8cbw7c4TwTY3YB86", "share": 100}],
+        "files": [{"uri": "27.jpg", "type": "image/jpg"}]
+    },
+    "collection": {"name": "AfrogemNfts", "family": "AfrogemNfts"}
+}

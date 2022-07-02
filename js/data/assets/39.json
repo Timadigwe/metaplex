@@ -1,0 +1,12 @@
+{
+    "name": "KABORE",
+    "symbol": "KR",
+    "description": "Here is KABORE inspired by the festival international des masques et des arts, or FESTIMA is a cultural festival celebrating traditional African masks held in Dedougou, Burkina faso. Founded to help preserve traditional cultural practices in the modern age. FESTIMA features masks and traditions from several west African countries. She speaks 3 languages.",
+    "seller_fee_basis_points": 1300,
+    "image": "39.png",
+    "properties": {
+        "creators": [{"address": "GTNVJCbratwg99LoCvBNQGegvNAc8cbw7c4TwTY3YB86", "share": 100}],
+        "files": [{"uri": "39.png", "type": "image/png"}]
+    },
+    "collection": {"name": "AfrogemNfts", "family": "AfrogemNfts"}
+}

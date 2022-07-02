@@ -1,0 +1,12 @@
+{
+    "name": "OHIOZE",
+    "symbol": "OHI",
+    "description": "Introducing Ohioze inspired by the monarchy of the Benin kingdom. He is from the western part of Africa and speaks two languages.",
+    "seller_fee_basis_points": 1300,
+    "image": "51.png",
+    "properties": {
+        "creators": [{"address": "GTNVJCbratwg99LoCvBNQGegvNAc8cbw7c4TwTY3YB86", "share": 100}],
+        "files": [{"uri": "51.png", "type": "image/png"}]
+    },
+    "collection": {"name": "AfrogemNfts", "family": "AfrogemNfts"}
+}

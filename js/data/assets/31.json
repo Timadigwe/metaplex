@@ -1,0 +1,12 @@
+{
+    "name": "MOREMI",
+    "symbol": "MR",
+    "description": "Here is MOREMI. Inspired and named after the legendary Queen and warrior of the Yoruba people in the western part of Nigeria in west Africa MOREMI AJASORO.  She speaks two languages.",
+    "seller_fee_basis_points": 1300,
+    "image": "31.png",
+    "properties": {
+        "creators": [{"address": "GTNVJCbratwg99LoCvBNQGegvNAc8cbw7c4TwTY3YB86", "share": 100}],
+        "files": [{"uri": "31.png", "type": "image/png"}]
+    },
+    "collection": {"name": "AfrogemNfts", "family": "AfrogemNfts"}
+}

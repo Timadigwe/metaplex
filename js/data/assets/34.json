@@ -1,0 +1,12 @@
+{
+    "name": "OSASUMWEN",
+    "symbol": "OSAS",
+    "description": "Here is OSASUMWEN inspired by the Benin people of west Africa, She speaks 3 languages.",
+    "seller_fee_basis_points": 1300,
+    "image": "34.png",
+    "properties": {
+        "creators": [{"address": "GTNVJCbratwg99LoCvBNQGegvNAc8cbw7c4TwTY3YB86", "share": 100}],
+        "files": [{"uri": "34.png", "type": "image/png"}]
+    },
+    "collection": {"name": "AfrogemNfts", "family": "AfrogemNfts"}
+}

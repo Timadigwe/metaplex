@@ -1,0 +1,12 @@
+{
+    "name": "ISHA",
+    "symbol": "ISH",
+    "description": "Introducing ISHA. She is inspired by the modern Fulani woman. The Fulani tribe are found mostly in the northern part of Nigeria and Niger in the western region of Africa. ISHA speaks three languages.",
+    "seller_fee_basis_points": 1300,
+    "image": "35.png",
+    "properties": {
+        "creators": [{"address": "GTNVJCbratwg99LoCvBNQGegvNAc8cbw7c4TwTY3YB86", "share": 100}],
+        "files": [{"uri": "35.png", "type": "image/png"}]
+    },
+    "collection": {"name": "AfrogemNfts", "family": "AfrogemNfts"}
+}

@@ -1,0 +1,12 @@
+{
+    "name": "BALAN",
+    "symbol": "BL",
+    "description": "Introducing BALAN Inspired by the HOLI tribe. is an indegenous tribe of Sub-Saharan people, part of the Yoruba people cluster within the Sub-Saharan African affinity block and living mainly in Onigbolo Isaba, in the south of Benin. He speaks three languages.",
+    "seller_fee_basis_points": 1300,
+    "image": "12.png",
+    "properties": {
+        "creators": [{"address": "GTNVJCbratwg99LoCvBNQGegvNAc8cbw7c4TwTY3YB86", "share": 100}],
+        "files": [{"uri": "12.png", "type": "image/png"}]
+    },
+    "collection": {"name": "AfrogemNfts", "family": "AfrogemNfts"}
+}

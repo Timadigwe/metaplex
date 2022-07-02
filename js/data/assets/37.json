@@ -1,0 +1,12 @@
+{
+    "name": "DAMOLA",
+    "symbol": "DM",
+    "description": "Meet DAMOLA. Inspired by the ancient Yoruba warrior ORISARAYIBI OGUNDAMOLA also known as OGEDENGBE AGBOGUNGORO who is referred to as the OBANLA of Ilesha today. Ilesha is a region from Nigeria the western part of Africa. Damola speaks 2 languages.",
+    "seller_fee_basis_points": 1300,
+    "image": "37.png",
+    "properties": {
+        "creators": [{"address": "GTNVJCbratwg99LoCvBNQGegvNAc8cbw7c4TwTY3YB86", "share": 100}],
+        "files": [{"uri": "37.png", "type": "image/png"}]
+    },
+    "collection": {"name": "AfrogemNfts", "family": "AfrogemNfts"}
+}

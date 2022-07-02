@@ -476,10 +476,17 @@ const Home = (props: HomeProps) => {
     })();
   }, [refreshCandyMachineState]);
 
+  
+ const Image1 = styled("img")`
+      width: 100%;
+      height:350px;
+ `
+
   return (
-    <Container style={{ marginTop: 100 }}>
-      <Container maxWidth="xs" style={{ position: 'relative' }}>
-        <Paper
+    <Container style={{ marginTop: 100, color:'#121117' }}>
+      <Container maxWidth="xs" style={{ position: 'relative' }}>   
+    <Image1 src="/afrogem.jpg" alt="Image1"/>
+     <Paper
           style={{
             padding: 24,
             paddingBottom: 10,

@@ -1,0 +1,12 @@
+{
+    "name": "TANG",
+    "symbol": "TNG",
+    "description": "TANG is inspired by the Ndebele tribe from the southern part of  Africa and speaks 2 languages.",
+    "seller_fee_basis_points": 1300,
+    "image": "44.png",
+    "properties": {
+        "creators": [{"address": "GTNVJCbratwg99LoCvBNQGegvNAc8cbw7c4TwTY3YB86", "share": 100}],
+        "files": [{"uri": "44.png", "type": "image/png"}]
+    },
+    "collection": {"name": "AfrogemNfts", "family": "AfrogemNfts"}
+}

@@ -1,0 +1,12 @@
+{
+    "name": "AKWUAIFA",
+    "symbol": "AKW",
+    "description": "AKWUAIFA is self titled and named after the founder and CEO of AFROGEM CONCEPTS in person of ALOMSE OLUWATOYOSI ANTHONIA. AKWUAIFA speaks four languages.",
+    "seller_fee_basis_points": 1300,
+    "image": "36.png",
+    "properties": {
+        "creators": [{"address": "GTNVJCbratwg99LoCvBNQGegvNAc8cbw7c4TwTY3YB86", "share": 100}],
+        "files": [{"uri": "36.png", "type": "image/png"}]
+    },
+    "collection": {"name": "AfrogemNfts", "family": "AfrogemNfts"}
+}
